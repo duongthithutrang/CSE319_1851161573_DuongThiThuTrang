@@ -1,0 +1,33 @@
+table{
+    width: 700px;
+    border: 2px solid rgb(180, 45, 45);
+    border-color: rgb(172, 48, 48);
+    border-collapse: collapse;
+    border-bottom: 4px solid blue;
+}
+.first{
+    color:white ;
+    background-color: palevioletred;
+    font-size: 20px;
+    text-align: right;
+    font-weight: bolder ;
+    border:rgb(173, 39, 84);
+}
+.second{
+    color: white ;
+    background-color:palevioletred;
+    font-weight: bolder;
+    font-size: 28px;
+    text-align: center;
+}
+ img{
+    display: block;
+    max-width: 100px;
+    max-height: 20 px;
+    width: auto;
+    height: auto;
+}
+table,tr,td{
+    border: 1px solid rgb(172, 48, 48);
+}
+
